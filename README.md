@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Giri%20An&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Back-end%20Devloper!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=Giri%20An&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Back-end%20Devloper!&descAlignY=51&descAlign=62)
 
 ### Stack
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=F05032&logo=Java&logoColor=FFFFFF&label=)
