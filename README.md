@@ -39,6 +39,9 @@
 ![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=4479A1&logo=Confluence&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=4479A1&logo=Jira&logoColor=FFFFFF&label=)
 ### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Anjonggil&show_icons=true)
+
+### Notion
+https://www.notion.so/Giri-Ahn-3c10788a37974cada6e5d3395e2bcb2b
 <!--
 **Anjonggil/Anjonggil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
