@@ -12,7 +12,7 @@
 ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=EF4223&logo=CodeIgniter&logoColor=FFFFFF&label=) 
 
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=Querydsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
-![MyBatis](https://img.shields.io/static/v1?style=for-the-badge&message=MyBatis&color=6DB33&logo=MyBatis&logoColor=FFFFFF&label=)
+![MyBatis](https://img.shields.io/static/v1?style=for-the-badge&message=MyBatis&color=6DB33F&logo=MyBatis&logoColor=FFFFFF&label=)
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)  
 
 ![Junit5](https://img.shields.io/static/v1?style=for-the-badge&message=Junit5&color=000000&logo=Junit5&logoColor=FFFFFF&label=)
