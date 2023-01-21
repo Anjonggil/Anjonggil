@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=250&section=header&text=Giri%20An&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Back-end%20Devloper!&descAlignY=51&descAlign=62)
 
-## Stack
+# Stack
 ### Skill
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=F05032&logo=Java&logoColor=FFFFFF&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=F05032&logo=Kotlin&logoColor=FFFFFF&label=)
